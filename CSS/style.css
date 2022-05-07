@@ -39,3 +39,16 @@ div:hover > p {
     background-attachment: red;
     
 }
+
+a:visited {
+    color:violet;
+}
+
+a:hover {
+    color:brown;
+    text-decoration: underline;
+}
+
+a:active {
+    color:black;
+}
