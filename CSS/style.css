@@ -25,3 +25,6 @@ td:hover{
 tr:nth-of-type(3){
     background-color: rgb(139, 139, 227);
 }
+tr:first-child {
+    background-color: rgb(235, 159, 60);
+}
