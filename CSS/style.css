@@ -28,3 +28,14 @@ tr:nth-of-type(3){
 tr:first-child {
     background-color: rgb(235, 159, 60);
 }
+
+div>p {
+    display:none;
+}
+
+div:hover > p {
+    display:block;
+    color:white;
+    background-attachment: red;
+    
+}
